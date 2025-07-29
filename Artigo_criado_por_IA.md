@@ -163,5 +163,5 @@ Comece pequeno. Teste um sprint. Chame seu time. E veja a mudança acontecer.
 
 Ilustração de capa e conteúdo gerado por ChatGPT; revisão humana.
 
-##Link de publicação do artigo: 
+##Link de publicação do artigo: https://dio.me/articles/scrum-e-o-setor-publico-caminhos-para-uma-ti-governamental-mais-eficiente-16293390a02b?utm_source=link&utm_campaign=mgm-scrum-e-o-setor-publico-caminhos-para-uma-ti-governamental-mais-eficiente-16293390a02b&utm_medium=article
 
